@@ -1,10 +1,12 @@
-Monsieurs, mesdames, mais plus spécifiqument les monsieurs de cette salle, combien de fois etes vous allez chez l'urologue, probablement 0.
+Monsieurs, mesdames, mais plus spécifiqument les monsieurs de cette salle, combien de fois etes vous allez chez l'urologue, 
+probablement 0.
 Et combien de fois etes vous allez au toilette aujourd'hui, probablement 6 a 7 fois. 
 
 Mesieurs n'avez vous pas marre de regarder le mur pendant que vous uriner tristement.
 Moi et mes collaborateurs oui, c'est pourquoi nous vous proposons l'urinoir PWF connecté.
 
-Notre urinoir propose une experience intéractive tout en permetant un suivis de santé. En effet notre urinoir vient un d'un ecran et d'un capteur de pression qui permet de mesurer le débit urinaire.
+Notre urinoir propose une experience intéractive tout en permetant un suivis de santé. 
+En effet notre urinoir vient un d'un ecran et d'un capteur de pression qui permet de mesurer le débit urinaire.
 grace a ce capteur nous pouvons calculer le volume uriné, le temps d'urination, et le débit urinaire et l'emplacement du jet. 
 Ceci permet de dans un premier temps de faire un suivis de santé, il est possible de detecter des maladies comme le diabete, 
 l'hypertension, l'insuffisance rénale, et les maladies cardiovasculaires grace a l'urine. 
