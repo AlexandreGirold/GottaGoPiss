@@ -86,7 +86,8 @@ void loop()
     }
 
     int force = analogRead(FSRPIN);
-    if (force > 50)
+    Serial.println(force);
+    if (force > 100)
     {
         score += force / 100;
         time_before = 40;
