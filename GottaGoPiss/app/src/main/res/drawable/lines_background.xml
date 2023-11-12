@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- res/drawable/lines_background.xml -->
+
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Background rectangle -->
+        <item>
+            <shape android:shape="rectangle">
+                <solid android:color="#FFA500" /> <!-- Orange color -->
+            </shape>
+        </item>
+
+        <!-- Horizontal lines (adjust the size as needed) -->
+        <item android:bottom="2dp">
+            <shape android:shape="line">
+                <stroke
+                    android:color="#FFA500"
+                android:width="1dp" />
+            </shape>
+        </item>
+        <item android:bottom="4dp">
+            <shape android:shape="line">
+                <stroke
+                    android:color="#FFA500"
+                    android:width="1dp" />
+            </shape>
+        </item>
+    </layer-list>
+
+</selector>
